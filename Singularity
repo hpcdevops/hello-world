@@ -2,7 +2,7 @@ Bootstrap: docker
 From: ubuntu:14.04
 
 %labels
-MAINTAINER vanessasaur
+MAINTAINER hpcdevops
 WHATAMI dinosaur
 
 %environment
